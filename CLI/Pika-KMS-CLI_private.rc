@@ -1,0 +1,36 @@
+/* THIS FILE WILL BE OVERWRITTEN BY DEV-C++ */
+/* DO NOT EDIT! */
+
+#include <windows.h> // include for version info constants
+
+
+A ICON "Pika-KMS-CLI.ico"
+
+//
+// TO CHANGE VERSION INFORMATION, EDIT PROJECT OPTIONS...
+//
+1 VERSIONINFO
+FILEVERSION 3,1,1,1
+PRODUCTVERSION 3,1,1,1
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+  {
+    BLOCK "040904E4"
+    {
+      VALUE "CompanyName", ""
+      VALUE "FileVersion", "3.1.1.1"
+      VALUE "FileDescription", "皮卡丘KMS授权工具Setup"
+      VALUE "InternalName", "Pikachuim KMS Authorization Tool"
+      VALUE "LegalCopyright", "Copyright 2019 Pikachuim"
+      VALUE "LegalTrademarks", "Copyright 2019 Pikachuim"
+      VALUE "OriginalFilename", "皮卡丘KMS授权工具CLI"
+      VALUE "ProductName", "皮卡丘KMS授权工具CLI"
+      VALUE "ProductVersion", "3.1.1.1"
+    }
+  }
+  BLOCK "VarFileInfo"
+  {
+    VALUE "Translation", 0x0409, 1252
+  }
+}
