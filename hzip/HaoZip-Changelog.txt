@@ -1,0 +1,35 @@
+New features: 
+
+1 to 7 formats support compression types added to the TAR.GZ, TAR.BZ2, TAR.XM, WIM format compression support; 
+(2) achieve full compatibility with the ISO format; 
+3 greatly enhance the volume of the ZIP format sub-fault tolerance. Even if the lack of volume can still be extracted; 
+4 new picture to see the replacement engine, image loading speed 50%, Figure smoother, and supports smooth zooming, and more special effects; 
+5 Image Viewer new viewing area on the mouse to automatically switch to left and right arrows function, flip more convenient; 
+6 new picture viewer zoom, the viewing area on the real-time display scaling function; 
+7 Picture Viewer plug-border transparent background and lower the plug to create a better environment; 
+8 new sub-volume history of the size of the memory function and removal of sub-volume history of the features that simplify user operation; 
+9 to add more common sub-volume sizes and the number of custom sub-volumes to six, giving the user more choice; 
+10 New well pressure the main interface title bar text display switching function; 
+11 adds support for other compression software to generate sub-forum dedicated to support the volume of extract; 
+
+Optimization: 
+
+1 compression / decompression performance optimization, depending on the different file types to be compressed up to 30% faster decompression; 
+2 The default "unzip to open directory" greatly simplifies user operation; 
+3 sub-volume of the number of support forums to 1000, to meet the needs of most users; 
+4 optimized "smart converting archive" feature from the original format supported by the three extended for seven; 
+5 support the associated extension bz compressed package to meet the needs of more users; 
+6 optimized to enhance the capacity of extracting RAR sub-volume treatment of fault tolerance; 
+7 more than ten of the text and error in the details of the optimization to enhance the user experience; 
+
+BUG fix: 
+
+1 fix in Traditional Chinese, the compression format has a display incomplete BUG; 
+(2) fixed input, after the environment variable% HOMEPATH%, suggesting that invalid access BUG; 
+3 fix a specific operation may occur not drag out from the compressed package in extracting BUG; 
+4 Repair of a specific operation, the password can not be cleared compressed package BUG; 
+5 Fixed Browse to select the folder window, select a compressed archive and run the command, the pop-up error box BUG; 
+6 Right-click the old-style fixed RAR-volume, pressure shows good compression options wrong BUG; 
+7 Repair of the Explorer to drag the file to the left directory tree, if the disk in the same folder instead of moving to perform the copy operation BUG; 
+8 Fixed shortcut key F4, and Shoulong address bar to start again after pressing the shortcut keys F3 failure BUG; 
+9 Fixed error extracting archive suffix of 001 BUG; 

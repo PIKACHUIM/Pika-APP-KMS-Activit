@@ -1,0 +1,23 @@
+<Configuration>
+<Add OfficeClientEdition="64" Channel="Monthly">
+    <Product ID="Proplus2019Volume">
+      <Language ID="zh-CN" />
+      <ExcludeApp ID="Publisher" />
+      <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="OneNote" />
+      <ExcludeApp ID="Outlook" />
+      <ExcludeApp ID="OneDrive" />
+    </Product>
+</Add>
+<Display Level="Full" AcceptEULA="TRUE" />
+<Updates Enabled="TRUE" Channel="Monthly" />
+</Configuration>
+<!--  OInstallSetting Branch=1  -->
+<!--  OInstallSetting Office=0  -->
+<!--  OInstallSetting Arch=1  -->
+<!--  OInstallSetting Redact=2  -->
+<!--  OInstallSetting Product=3  -->
+<!--  OInstallSetting OnlineKMS=0  -->
+<!--  OInstallSetting PATH=  -->
+<!--  OInstallSetting Lang39=1  -->

@@ -1,0 +1,50 @@
+16:47:57:188 2020.05.23 KMS GUI ELDI 37.1.0.0
+Official Site: 
+http://forums.mydigitallife.info/forums/51-KMS-tools
+KMSpico v10.2.0
+Windows Detected: Windows 10 Pro : Professional : 6.3 : 18363
+
+16:47:57:204 Loading SECOH-QAD...
+16:47:57:206 Set Registry : Image File Execution Options\SppExtComObj.exe:Debugger
+16:47:57:206 Using host Forward: 10.201.119.230:1688
+16:47:57:206 Using host Local: 127.37.53.165:1688
+16:47:57:206 Using method: SECOH-QAD
+16:47:57:215 Time Start: 2020/5/23 星期六 16:47:57
+16:47:57:216 Checking Internet Connection...
+16:47:57:276 Windows Detected: Windows 10 Pro : Professional : 6.3 : 18363
+16:47:57:277 Using host Forward: 10.201.119.230:1688
+16:47:57:277 Using host Local: 127.37.53.165:1688
+16:47:57:277 Using method: SECOH-QAD
+16:47:57:282 Opening Firewall Port...
+16:47:57:332 Opening Firewall App...
+16:47:57:388 Error: Opening Firewall App
+16:47:57:389 KMSEmulator Port: 1688
+16:47:57:390 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+16:47:57:395 KMSEmulator running port: 1688
+16:47:57:395 Office 2010 Skipped
+16:47:57:401 Office 2013 Skipped
+16:47:57:401 Office 2016 Found: C:\Program Files (x86)\Microsoft Office\root\Office16
+16:47:57:403 Loading OEM Key Dumper...
+16:47:57:403 Key found on MSDM: -XTPR9
+16:47:58:248 Error: You need Reinstall Office 2016 or Open It the firts time
+16:47:58:251 Installing Key: -XTPR9
+16:47:58:452 Error: C004F069 InstallProductKey
+16:47:58:846 Found Windows Products: 1
+16:47:58:847 Name: Windows(R), Professional edition
+Description: Windows(R) Operating System, RETAIL channel
+GracePeriodRemaining: 0
+LicenseStatus: 1
+PartialProductKey: 3V66T
+GenuineStatus: 0
+
+16:47:58:847 Version Windows Skipped
+16:47:58:878 No Internet Connection Detected
+16:48:01:247 Office 2016. (non KEY) --> ProPlus KEY ?
+16:48:04:728 Office 2016 Skipped
+16:48:04:745 Closing Firewall Port...
+16:48:04:793 Set Registry : HKEY_CURRENT_USER\Control Panel\Desktop:PaintDesktopVersion
+16:48:04:798 Unloading SECOH-QAD...
+16:48:04:799 Del Registry : SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe:
+16:48:04:800 Client listener shut down
+16:48:04:804 Time Finish: 2020/5/23 星期六 16:48:04
+16:48:04:805 Total Time: 7 seconds
